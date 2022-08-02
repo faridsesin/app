@@ -4,8 +4,8 @@ const app = express()
 console.log(__dirname)
 app.use(express.static(__dirname+'/public'))
 app.get('/',(req,res)=>{
-    res.send('hola a todos')
-   // res.render('index.html')
+  //  res.send('hola a todos')
+   res.render('index.html')
 
 })
 
