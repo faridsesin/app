@@ -9,6 +9,10 @@ app.get('/',(req,res)=>{
 
 })
 
+app.get('/prueba',(req,res)=>{
+    res.send('HOLA A TODOS ')
+})
+
 const PORT = process.env.PORT || 8080
 app.listen(PORT,()=>{
     console.log('servidior iniciado puerto 8080')
