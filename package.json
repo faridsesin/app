@@ -1,0 +1,23 @@
+{
+  "name": "clase-33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridsesin/pruebacoder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faridsesin/pruebacoder/issues"
+  },
+  "homepage": "https://github.com/faridsesin/pruebacoder#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
