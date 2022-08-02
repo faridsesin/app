@@ -32,6 +32,8 @@ Entre las alternativas a GIT tenemos:
 mercurial
 -azure devops server
 
+git log --oneline
+git reset --hard 
 
 
 Diapositiva 28 - 31
