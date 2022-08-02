@@ -39,6 +39,21 @@ DESAFIO GIT
 
 Diapositiva 34 - 39
 PAAS
+Se acuerdan que algunas clases cuando estabamos introduciendo todo esto de las bases
+de datos sobre todo en la nube tipo mongoDB Atlas, hablamos de distintos servicios 
+con los que uno se podia encontrar y con distintas caracteristicas dependiendo que se requiriera
+Una de esas eran las plataformas como servicios o PaaS, tambien teniamos las SaaS, o 
+software como servicio y las IaaS o infraestructura como servicio
+IaaS, tenemos como ejemplo amazon web services, donde contratamos infraestructura de 
+hardware para lo que podemos elegir capacidad de procesador, memoria ram a utilizar y 
+memoria de almacenamiento o disco duro.
+PaaS nos sirve para montar aplicaciones como bases de datos, herramientas de desarrollo o 
+cualquier tipo de funcionalidad o servicio y unicamente concentrarnos
+en la implementacion y administracion de las aplicaciones.
+SaaS ya es practicamente todo el servicio completo
+
+
+
 
 Diapositivas 40 - 61
 HEROKU
