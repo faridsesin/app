@@ -10,7 +10,7 @@ app.get('/',(req,res)=>{
 })
 
 app.get('/prueba',(req,res)=>{
-    res.send('HOLA A TODOS ')
+    res.send('HOLA A TODOS NUEVA BRANCH ')
 })
 
 const PORT = process.env.PORT || 8080
